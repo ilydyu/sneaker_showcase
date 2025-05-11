@@ -1,3 +1,5 @@
-# React Three Fiber
+# Sneaker showcase
 
-This template provides a minimal setup to React Three Fiber
+This is a 3D model of a sneaker in three js.
+
+![Screenshot](./public/screenhot.png)
